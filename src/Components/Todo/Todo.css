@@ -1,0 +1,23 @@
+.mainiv{
+    float: right;
+    border: 1px solid black;
+    width: 80%;
+    height: 800px;
+}
+.iniv{
+    border: 1px solid transparent;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+    
+}
+.flexx{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid transparent;
+}

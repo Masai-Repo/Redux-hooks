@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.firstDiv{
+    border: 1px solid red;
+    float: right;
+    width: 80%;
+    min-height: 800px;
+    text-align: center;
+    background-color: teal;
+}
+.innerDiv{
+    width: 80%;
+    min-height: 90%;
+    border: 1px solid transparent;
+    margin: auto;
+    background-color: aqua;
+    
+    
+}
+.display{
+    width: 300px;
+    border: 1px solid transparent;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: left;
+    min-height: 200px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}

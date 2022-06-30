@@ -1,0 +1,48 @@
+.mainDiv{
+    background-color: #F7FAFC;
+    height: 800px;
+}
+.inDiv{
+    height: 150px;
+    width: 600px;
+    border: 1px solid transparent;
+    margin: auto;
+    text-align: center;
+}
+.scndDiv{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    border: 1px solid transparent;
+    margin: auto;
+    align-items: center;
+   height: 600px;
+   background-color: #FFFFFF;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    background-color: blueviolet;
+    color: #FFFFFF;
+    border: none;
+}
+button:hover{
+    cursor:alias;
+}
+.loguin{
+    border: none;
+    background-color: transparent;
+    color:coral;
+    width: 70px;
+}
+.showflex{
+    display: flex;
+    align-items: center;
+}

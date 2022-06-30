@@ -1,0 +1,38 @@
+.maindiv{
+    border: 1px solid red;
+    height: 800px;
+    width: 19%;
+    float: left;
+    background-color: aqua;
+}
+.sideDivv{
+    border :1px solid transparent;
+    height: 120px;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}
+.flecbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.butn{
+    background-color: aliceblue;
+    color: black;
+    border: none;
+    width: 200px;
+}
+
+.logout{
+    width: 100px;
+    background-color: darkcyan;
+}
+.logo{
+    border: 1px solid transparent;
+    height: 62%;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+
+}
